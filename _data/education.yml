@@ -1,11 +1,24 @@
+-   qualification: kernel study 13th Team-A
+    school: Iamroot.org
+    period: 2016.04 ~ current
+    description: Analysis of the Linux kernel source code line by line. Raspberry PI 2 is a target. We have anylized the kernel code prior to the decompression code in "/arch/arm/boot/compressed/head.S". And now, analyzing "/arch/arm/kernel/head.S".<br /><br />gas, gcc
+    
+-   qualification: Artificial Intelligence study 2th
+    school: Iamroot.org
+    period: 2016.04 ~ current
+    description: We studied the basic theory of artificial intelligence. And, analyzed the source code written in tensorflow in python. And, currently writing code using tensorflow.<br /><br />Python, Tensorflow
+
 -   qualification: Computer Science
     school: Kyonggi university
+    period: 2001.03 ~ 2008.02
     description: I was admitted to the Deparment of Physics. But, in the third grade I was changed to the Department of Computer Science. Courses taught in theh Database, Network programming and more. I was futher studied Delphi, PHP, ASP as personal learning.
 
 -   qualification: Science
     school: Dankook University High School
+    period: 1998.03 ~ 2001.02
     description: I studied Win32 application programming through extracurricular activities in school. I learned C, C++, C++Builder and etc (HTML, CSS, JavaScript).
 
 -   qualification: Certificates and GW-Basic
     school: Jeil Information Processing Institute
-    description: 
+    period: 1991
+    description: For the first time, I learned the "GW-BASIC". And then, I studied various certifications, and was take the certificate exam.
