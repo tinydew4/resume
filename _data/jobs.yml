@@ -1,9 +1,59 @@
--   title: Technical lead, Windows application developer
-    company: SoftBridge
-    period: 2008.02 ~ current
-    description: I started as C++Builder programmer. My first project is the "Anchor Chart 2", that services at "<a href="http://www.thinkpool.com/anchor/">Thinkpool</a>". Also, I was responsible for maintenance of the Intelligent search service and technical lead for the "AnchorLive" project.<br /><br />C++Builder, Delphi, PHP, HTML, CSS, JavaScript, WordPress.
-
--   title: Windows application developer
-    company: Voidsoft
-    period: 2007
-    description: Part time job. Jewelry franchise (marino & mariat) support program. SMS Serder via TCP/IP. Game map editor.<br /><br />C++Builder, SQL Server
+en:
+- qualification: IAMROOT linux kernel 13th 'A' Team
+  company: Iamroot.org
+  period: 2016.04 ~ current
+  description:
+    Analysis of the Linux kernel source code line by line. The target is
+    Raspberry PI 2. We have anylized the kernel code prior to the 'start_kernel'
+    function in C source.<br /><br />gcc, gas, armv7
+- qualification: IAMROOT artificial intelligence 2th
+  company: Iamroot.org
+  period: 2016.04 ~ current
+  description:
+    We studied the basic theory of artificial intelligence. And, analyzed the
+    source code written in tensorflow. Now, writing code using tensorflow and
+    translate some AI related blogs into Korean.<br /><br />Python, Tensorflow
+- title: Windows application developer
+  company: SoftBridge
+  period: 2008.02 ~ current
+  description:
+    I started as C++Builder programmer. My first project is the
+    "Anchor Chart 2", that services at
+    "<a href="http://www.thinkpool.com/anchor/">Thinkpool</a>". Also, I was
+    responsible for maintenance of the Intelligent search service and technical
+    lead for the "AnchorLive" project.<br /><br />C++Builder, Delphi, PHP, HTML,
+    CSS, JavaScript, WordPress.
+- title: Windows application developer
+  company: Voidsoft
+  period: 2007
+  description:
+    Part time job. Jewelry franchise (marino & mariat) management program. SMS
+    Broker via TCP/IP. Game map editor.<br /><br />C++ Builder, SQL Server
+ko:
+- qualification: IAMROOT 리눅스 커널 13차 A팀
+  company: Iamroot.org
+  period: 2016.04 ~ 현재
+  description:
+    리눅스 커널 소스 코드 분석. 라즈베리 파이 2를 대상으로 함. 현재 C 코드의
+    'start_kernel' 함수 전까지 분석.<br /><br />gcc, gas, armv7
+- qualification: IAMROOT 인공지능 2차
+  company: Iamroot.org
+  period: 2016.04 ~ 현재
+  description:
+    인공지능의 기본 이론 학습. 텐서플로우 예제 분석. 텐서플로우 기반 코드 작성과
+    인공지능 관련 블로그 번역.<br /><br />파이썬, 텐서플로우
+- title: 윈도우 응용프로그램 개발자
+  company: 소프트브리지
+  period: 2008.02 ~ 현재
+  description:
+    C++ 빌더 프로그래머로 시작했습니다. 첫 프로젝트는 "앵커차트2" 이며,
+    "<a href="http://www.thinkpool.com/anchor/">씽크풀</a>"에서 서비스됩니다.
+    또한, 인공지능 검색의 유지보수와 "앵커라이브" 프로젝트의 테크니컬
+    리드입니다.<br /><br />C++ 빌더, 델파이, PHP, HTML, CSS, 자바스크립트,
+    워드프레스.
+- title: 윈도우 응용프로그램 개발자
+  company: 보이드소프트
+  period: 2007
+  description:
+    아르바이트. 쥬얼리 프랜차이즈 (마리노 & 마리앳) 관리 프로그램. SMS 중계
+    서버. 게임 맵 편집기.<br /><br />C++ 빌더, SQL Server

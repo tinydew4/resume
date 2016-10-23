@@ -12,10 +12,12 @@ dt, dd {
 }
 
 @media(min-width: 640px) {
-    dt, dd {
+    dt {
+        margin-bottom: 30px;
+    }
+    dd {
         margin-bottom: 60px;
     }
-
     .experience {
         dt {
             width: 30%;
@@ -25,7 +27,6 @@ dt, dd {
             width: 70%;
         }
     }
-
     .education {
         dt, dd {
             width: 50%;

@@ -1,24 +1,42 @@
--   qualification: kernel study 13th Team-A
-    school: Iamroot.org
-    period: 2016.04 ~ current
-    description: Analysis of the Linux kernel source code line by line. Raspberry PI 2 is a target. We have anylized the kernel code prior to the decompression code in "/arch/arm/boot/compressed/head.S". And now, analyzing "/arch/arm/kernel/head.S".<br /><br />gas, gcc
-    
--   qualification: Artificial Intelligence study 2th
-    school: Iamroot.org
-    period: 2016.04 ~ current
-    description: We studied the basic theory of artificial intelligence. And, analyzed the source code written in tensorflow in python. And, currently writing code using tensorflow.<br /><br />Python, Tensorflow
-
--   qualification: Computer Science
-    school: Kyonggi university
-    period: 2001.03 ~ 2008.02
-    description: I was admitted to the Deparment of Physics. But, in the third grade I was changed to the Department of Computer Science. Courses taught in theh Database, Network programming and more. I was futher studied Delphi, PHP, ASP as personal learning.
-
--   qualification: Science
-    school: Dankook University High School
-    period: 1998.03 ~ 2001.02
-    description: I studied Win32 application programming through extracurricular activities in school. I learned C, C++, C++Builder and etc (HTML, CSS, JavaScript).
-
--   qualification: Certificates and GW-Basic
-    school: Jeil Information Processing Institute
-    period: 1991
-    description: For the first time, I learned the "GW-BASIC". And then, I studied various certifications, and was take the certificate exam.
+en:
+- qualification: Computer Science
+  school: Kyonggi university
+  period: 2001.03 ~ 2008.02
+  description:
+    I was admitted to the Deparment of Physics. But, in the third grade I was
+    changed to the Department of Computer Science. Courses learned in the
+    Database, Network programming and more. I was further studied Delphi,
+    C++ Builder, PHP and  ASP as personal learning.
+- qualification: Science
+  school: Dankook University High School
+  period: 1998.03 ~ 2001.02
+  description:
+    I studied Win32 application programming through extracurricular activities
+    in school. I learned C, C++, C++Builder and etc (HTML, CSS, JavaScript).
+- qualification: Certificates and GW-Basic
+  school: Jeil Information Processing Institute
+  period: 1991
+  description:
+    For the first time, I learned the "GW-BASIC". And then, I studied various
+    certifications, and was take the certificate exam.
+ko:
+- qualification: 컴퓨터과학과
+  school: 경기대학교
+  period: 2001.03 ~ 2008.02
+  description:
+    자연과학부 물리과로 입학하여, 3학년에 정보과학부 컴퓨터과학과로
+    전과했습니다. 데이타베이스, 네트워크 프로그래밍 등을 수강했습니다. 그리고
+    개인적으로 델파이, C++ 빌더, PHP, ASP 를 공부했습니다.
+- qualification: 이과
+  school: 단대부고
+  period: 1998.03 ~ 2001.02
+  description:
+    동아리 활동을 통해 C 를 배웠습니다. 이를 발전시켜 C++ 을 공부했고,
+    C++ Builder 로 Win32 응용프로그램 개발을 공부했습니다. 그외에 HTML, CSS,
+    JavaScript 도 공부했습니다.
+- qualification: 자격증, GW-Basic
+  school: 제일 전산학원
+  period: 1991
+  description:
+    처음에 "GW-BASIC" 을 배웠습니다. 그리고, 여러 자격증을 공부하고
+    시험봤습니다.

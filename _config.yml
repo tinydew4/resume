@@ -1,18 +1,30 @@
 # Jekyll Resume Theme
 
 # Site settings
-title: Tinydew4 Resume
+title:
+  en: Hur jung ju - Resume
+  ko: 허정주 - 이력서
 email: tinydew4@gmail.com
-description: .
+description:
+  en: resume
+  ko: 이력서
 baseurl: "/resume"
 url: "http://tinydew4.github.io"
-name: Hur jung-ju
-job: Windows application developer
-location: Seoul, Korea
-languages: C, C++, CSS and Javascript
+name:
+  en: Hur jung-ju
+  ko: 허정주
+job:
+  en: Windows application developer
+  ko: 윈도우 응용프로그램 개발자
+location:
+  en: Seoul, Korea
+  ko: 대한민국 서울
+languages:
+  en: C, C++, CSS and Javascript
+  ko: C, C++, CSS, Javascript
 # twitter_username: tinydew4
-github_username:  tinydew4
-gitlab_username:  tinydew4
+github_username: tinydew4
+gitlab_username: tinydew4
 email_address: tinydew4@gmail.com
 
 # Build settings
